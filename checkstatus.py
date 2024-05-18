@@ -5,9 +5,9 @@ import threading
 
 # List of subdomains to check
 subdomains = [
-    'http://sub1.awesomeweb',
-    'http://sub2.awesomeweb',
-    'http://sub3.awesomeweb',    
+    'http://sub1.awsomeweb',
+    'http://sub2.awsomeweb',
+    'http://sub3.awsomeweb',    
 ]
 
 def check_status(url):
